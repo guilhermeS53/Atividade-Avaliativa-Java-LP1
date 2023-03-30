@@ -1,7 +1,7 @@
 package Exercício01_Peoples;
 
 public class Pessoa {
-    String nome, endereço, telefone;
+    String nome, endereco, telefone;
 
     public String getNome() {
         return nome;
@@ -11,12 +11,12 @@ public class Pessoa {
         this.nome = nome;
     }
 
-    public String getEndereço() {
-        return endereço;
+    public String getEndereco() {
+        return endereco;
     }
 
-    public void setEndereço(String endereço) {
-        this.endereço = endereço;
+    public void setEndereco(String endereco) {
+        this.endereco = endereco;
     }
 
     public String getTelefone() {
