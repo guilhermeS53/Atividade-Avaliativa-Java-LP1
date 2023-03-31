@@ -5,13 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1d3280b-057b-4d22-9499-cb88901cc3e4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Tests/Exercicio01/FornecedorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/Exercicio02/AdministradorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/Exercicio02/EmpregadoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicio01/Fornecedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicio02/Administrador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicio02/Empregado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicio02/Pessoa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercício01_Peoples/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercício01_Peoples/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadeAvaliativoFreq.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeAvaliativoFreq.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercício01_Peoples/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio01/Pessoa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -27,12 +43,28 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "onboarding.tips.debug.path": "C:/Users/guilh_bg2ogae/OneDrive/Documentos/1. Faculdade/Engenharia de Computação – 9o Período/Linguagem de Programação I/AtividadeAvaliativoFreq/src/Main.java",
-    "settings.editor.selected.configurable": "settings.sync"
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Exercício01_Peoples" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Exercicio02" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
