@@ -12,6 +12,5 @@ public class AdministradorTest {
         System.out.println("Imposto do Administrador: " + a1.getImposto() + "%");
         System.out.println("Ajuda de custo do Administrador: " + a1.getAjudaCusto());
         System.out.println("Salário final do Administrador: " + a1.calcularSalario());
-
     }
 }

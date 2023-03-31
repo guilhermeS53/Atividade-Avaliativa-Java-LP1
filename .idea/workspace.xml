@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1d3280b-057b-4d22-9499-cb88901cc3e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Tests/Exercicio01/FornecedorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/Exercicio02/AdministradorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/Exercicio02/EmpregadoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicio01/Fornecedor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicio02/Administrador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicio02/Empregado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicio02/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/Exercicio02/OperarioTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/Exercicio02/VendedorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicio02/Operario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicio02/Vendedor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AtividadeAvaliativoFreq.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadeAvaliativoFreq.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercício01_Peoples/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio01/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/Exercicio02/AdministradorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/Exercicio02/AdministradorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
